@@ -3,3 +3,16 @@ Before using it we need to use git config --global user.name "VSMDURGAPRASAD"
 And Use keyword to have a git config --list
 git status for checking the status of a file
 git log for those who have done commits in the code
+In git diff usage 
+If we click the git help log we will get a new page in google 
+git diff --cached in this it will describes the complete different changes in each phase
+git log -p in this it will shows the entire change in every phase
+Now open a git branch name 
+means git branch experimental
+git checkout experimental then it will switched to that account
+then git add -a
+git -b checkout experimental
+Question
+$ git log --stat --summary
+$ git log -p
+
