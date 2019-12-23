@@ -1,0 +1,5 @@
+git is a command 
+Before using it we need to use git config --global user.name "VSMDURGAPRASAD"
+And Use keyword to have a git config --list
+git status for checking the status of a file
+git log for those who have done commits in the code
